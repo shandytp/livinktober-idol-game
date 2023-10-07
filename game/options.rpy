@@ -18,7 +18,7 @@ define config.name = _("LivINKtober Idol")
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
@@ -34,8 +34,7 @@ Programmer: Tepe \n
 Story: Cuin & Tepe \n
 Art Indira: Bli Ari \n
 Art Yuura: Fadhil \n
-
-Github: 
+{a=https://github.com/shandytp/livinktober-idol-game}Github{/a}
 
 """)
 
